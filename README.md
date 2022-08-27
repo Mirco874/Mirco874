@@ -6,5 +6,6 @@
 
 ### Redes.
 
-- GitHub [<img align="left" alt="logo github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" height=30px />]
-(https://github.com/Mirco874)!
+- GitHub [<img align="left" alt="logo github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20px" height=20px />][Github]
+
+[Github]: https://github.com/Mirco874
